@@ -129,3 +129,13 @@ Satellite Data → Data Processing → AI Detection → Time-Series Analysis →
 - Combines AI + Satellite Data + Ocean Physics
 - Solves a real-world global problem
 - Provides actionable insights, not just raw data
+
+
+Team Details :
+
+Team Name : NEXUS
+Team Id : SKB_F25
+Problem Statement ID : SKB_F5
+Theme : Environmental Monitoring 
+Category : Software
+College : GS Mandal Maharashtra Institute of Technology , Aurangabad. 
